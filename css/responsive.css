@@ -1,0 +1,36 @@
+
+@media  (max-width:578px){
+    footer .unflex{
+        display: block;
+    }
+}
+/* }mobli va tablet */
+@media (min-width:579px) and (max-width:991px)
+{
+    .hide_img{
+        display: none;
+    }
+    .header__content{
+        width: 100%;
+    }
+    .header__content h1{
+        font-size: 40px;
+
+    }
+    .header__content
+    {
+        padding: 50px 0;
+    }
+    .card__margin--md
+    {
+        margin-bottom: 100px;
+    }
+}
+@media (max-width:992px) and (max-width:1200px)
+{
+    
+}
+@media (min-width:1200px)
+{
+    
+}
